@@ -1,4 +1,4 @@
-package jeon.chapter1.item2;
+package jeon.chapter2.item2;
 
 import java.util.EnumSet;
 import java.util.Set;

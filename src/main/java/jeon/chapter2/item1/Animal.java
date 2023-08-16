@@ -1,4 +1,4 @@
-package jeon.chapter1.item1;
+package jeon.chapter2.item1;
 
 public interface Animal {
 
