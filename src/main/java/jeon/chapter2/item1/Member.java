@@ -1,4 +1,4 @@
-package src.main.java.jeon.chapter1.item1;
+package jeon.chapter2.item1;
 
 public class Member {
     public enum Gender {

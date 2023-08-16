@@ -1,4 +1,4 @@
-package jeon.chapter1.item2;
+package jeon.chapter2.item2;
 
 public class Person2 {
     private String name;
